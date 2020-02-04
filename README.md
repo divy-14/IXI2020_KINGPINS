@@ -10,3 +10,4 @@ Simulation modeling explains real-world problems efficiently and in a more preci
 
 #### Concept of collision:
 
+![WhatsApp Video 2020-02-04 at 4 44 16 PM](https://user-images.githubusercontent.com/43966117/73741787-fd4fdc00-4770-11ea-8d49-6620f577e8e2.gif)
